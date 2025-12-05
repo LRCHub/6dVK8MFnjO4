@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Rage your dream",
+  "base_artist": "move",
+  "createdAt": "2025-12-05T18:12:45.247194Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/01_Rage_your_dream_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rage your dream",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/02_Rage_your_dream_move.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rage Your Dream",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/03_Rage_Your_Dream_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rage your dream (INITIAL D mix)",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/04_Rage_your_dream_(INITIAL_D_mix)_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/05_Rage_your_dream_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rage your dream",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/06_Rage_your_dream_move.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "m.o.v.e / Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/07_m.o.v.e___Rage_your_dream_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "rage your dream",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/08_rage_your_dream_move.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rage Your Dream",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/09_Rage_Your_Dream_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/10_Rage_your_dream_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rage your dream",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/11_Rage_your_dream_move.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_01_Rage_your_dream_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_02_Rage_your_dream_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_03_Rage_your_dream_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Rage Your Dream",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_04_Rage_Your_Dream_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Rage Your Dream",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_05_Rage_Your_Dream_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_06_Rage_your_dream_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_07_Rage_your_dream_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_08_Rage_your_dream_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_09_Rage_your_dream_m.o.v.e.txt"
+    }
+  ]
+}
